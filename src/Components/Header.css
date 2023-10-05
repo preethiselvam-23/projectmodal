@@ -1,0 +1,96 @@
+.header{
+    
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px 20px;
+    position: sticky;
+    top: 0;
+    z-index: 100;
+    background-color: white;
+    /* background-color: red; */
+}
+.header_left{
+    display: flex;
+    align-items: center;
+}
+.logo{
+    height: 45px;
+    width: 90px;
+    object-fit: contain;
+    margin-left: 20px;
+}
+
+   
+
+.header_input{
+    /* background-color: yellowgreen; */
+    align-items: center;
+    width: 45%;
+    display: flex;
+}
+.searchinput{
+    /* background-color: yellow; */
+    flex: 1;
+   
+    border-radius: 20px 0px 0px 20px;   
+  
+    height: 25px;
+    width: auto;
+    padding:5px;
+    font-size: 16px;
+   
+    border: none;
+   
+
+}
+.searchinput:active{
+    border-radius:20px 0px 0px 20px;
+    border: 1px solid blue;  
+
+}
+.searchicon{
+    /* background-color: pink; */
+    width: 50px !important;
+    padding: 5px;
+    color: gray;
+    border-radius: 0px 20px 20px 0px;
+    background-color: white;
+    margin-left: 1px solid lightgray;
+}
+
+    
+
+.header_middle{
+    /* background-color: rgb(0, 28, 128); */
+    display: flex;
+    align-items: center;
+    width: 45%;
+    border: 1px solid black;
+    border-radius: 20px;
+    flex: 1;
+    margin-right: 10px;
+}
+.mic_icon{
+    margin-right: 10px;
+    /* background-color: pink; */
+}
+
+.header_right{
+    display: flex;
+    align-items: center;
+    /* background-color: darkgoldenrod; */
+}
+button{
+    display: flex;
+    border: none;
+    /* background-color: lightgrey; */
+    border-radius: 50px;
+   margin-left: 20px;
+}
+.right_icon{
+    margin:5px;
+    color:rgb(83,83,83)!important;
+    /* background-color: aquamarine; */
+    
+}

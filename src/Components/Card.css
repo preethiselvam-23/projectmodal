@@ -1,0 +1,7 @@
+.card{
+    display: flex;
+    width: 50%;
+    height: 50vh;
+    background-color: burlywood;
+    justify-content: space-around;
+}
