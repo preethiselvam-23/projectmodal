@@ -7,7 +7,7 @@ const All = () => {
     <div className='video'>
 
         <Videocard
-        className='player'
+        className='player '
         thumbnail="https://imagekit.io/blog/content/images/2020/12/image-resizing-html.jpg"
         duration="08:38"
         channelName="DevNtech"
@@ -27,7 +27,7 @@ const All = () => {
         time="1 month ago"
         />
         <Videocard
-       className='player'
+       className='player '
         thumbnail="https://wallpapers.com/images/hd/black-theme-aesthetic-collage-laptop-zpkrxc55azl1cop0.jpg"
         duration="10:38"
         channelName="DevNtech"
@@ -37,7 +37,7 @@ const All = () => {
         time="1 month ago"
         />
         <Videocard
-       className='player'
+       className='player '
         thumbnail="https://i.ytimg.com/vi/B3cU_bX0-E0/maxresdefault.jpg"
         duration="10:8:38"
         channelName="DevNtech"
@@ -47,7 +47,7 @@ const All = () => {
         time="1 month ago"
         />
         <Videocard
-       className='player'
+       className='player '
         thumbnail="https://themeforest.img.customer.envatousercontent.com/files/466875259/01_preview.png?auto=compress%2Cformat&fit=crop&crop=top&w=590&h=300&s=0b67e6ffdf2ac453a053cf169a05dabf"
         duration="18:38"
         channelName="DevNtech"
@@ -57,7 +57,7 @@ const All = () => {
         time="1 month ago"
         />
         <Videocard
-       className='player'
+       className='player '
         thumbnail="https://repository-images.githubusercontent.com/530803927/dfd6e4bb-62cc-418f-a4f9-af3dbd04e872"
         duration="1:08:38"
         channelName="DevNtech"

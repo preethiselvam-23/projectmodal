@@ -91,3 +91,18 @@
 .c_name:hover{
    color: rgb(59,59,59);
 }
+.videocard{
+   /* transform: scale(0.42); */
+   transition: transform 3s;
+   /* transform: translatex(400px) translateY(200px); */
+}
+.videocard:hover{
+   /* transform: scale(0.42); */
+   /* transform: rotate(60deg); */
+   /* matrix(scalex(),skewy(),skewx(),scaley(),translatex(),translatey() */
+   /* transform: matrix(1,2,-1,1,80,80); */
+   /* transition: property timing timing_function delay; */
+   /* width: 100px; */
+   /* transform: translatex(400px) translateY(200px); */
+
+}

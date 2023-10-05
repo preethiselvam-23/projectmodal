@@ -1,9 +1,25 @@
 .container{
+    margin-top: -20px;
    background-color: skyblue;
-   height: 100%;
-   width: 100%;
+   width: 100vw;
+    height: 100vh;
+  
 }
 .plane{
+   
     width: 200px;
    
 }
+.homepage{
+    flex: 0.8;
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: 16%;
+    background-color: rgb(51, 79, 79);
+    /* opacity: 0.3; */
+    position: sticky;
+    top: 0;
+    /* border: 2px solid black; */
+   
+    
+ }
